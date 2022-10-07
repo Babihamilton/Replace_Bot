@@ -1,0 +1,6 @@
+//"wss": "wss://eth-ropsten.alchemyapi.io/v2/T7-yC4GYLEGxKaYX4ESi8KFVRt-Sn4Kv"
+//       "wss": "wss://eth-goerli.g.alchemy.com/v2/8KNx5j9eeU5L2LJa4-jPEFh6en98mOaG"
+//   git clone https://github.com/wowBlaBla/Replacer_BOT.git
+
+https://eth-goerli.g.alchemy.com/v2/8KNx5j9eeU5L2LJa4-jPEFh6en98mOaG
+wss://eth-goerli.g.alchemy.com/v2/8KNx5j9eeU5L2LJa4-jPEFh6en98mOaG

@@ -1,0 +1,19 @@
+{
+    "accounts": [
+        {
+         "public":"0xDc2b4c0C4D490D01c040ccB86eB9a38a9eA0Fd33",
+         "private":"0xDc2b4c0C4D490D01c040ccB86eB9a38a9eA0Fd33"
+        }
+    ],
+    "toAddr": "0x1f822Ba8D66A40f31f28563b8181C740375a910b",
+    "whitelist": [
+        "0x0fBd0254D34b9F82c054cEB77515e6EaCD80E3F9",
+        "0x6686461491de1bf2a6a9bE42169550905403BB43"
+        
+    ],
+    "rpc": {
+        "https": "https://eth-ropsten.alchemyapi.io/v2/T7-yC4GYLEGxKaYX4ESi8KFVRt-Sn4Kv",
+        "wss": "wss://eth-goerli.g.alchemy.com/v2/8KNx5j9eeU5L2LJa4-jPEFh6en98mOaG"
+        
+    }
+}
